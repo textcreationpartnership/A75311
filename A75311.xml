@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Anabaptists late protestation. Or Their resolution to depart the City of London. Wherein is set forth, the full proceedings of a great number of Anabaptists, at a late conventicle neere Old-street. Together with their severall debates, and consultations at the said meeting, concerning the City of London, and the kingdome of England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75311</idno>
+            <idno type="STC">Wing A3041</idno>
+            <idno type="STC">Thomason E383_11</idno>
+            <idno type="STC">ESTC R201433</idno>
+            <idno type="EEBO-CITATION">99861944</idno>
+            <idno type="PROQUEST">99861944</idno>
+            <idno type="VID">160179</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75311)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160179)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 61:E383[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Anabaptists late protestation. Or Their resolution to depart the City of London. Wherein is set forth, the full proceedings of a great number of Anabaptists, at a late conventicle neere Old-street. Together with their severall debates, and consultations at the said meeting, concerning the City of London, and the kingdome of England.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the happy yeare, when sectaries durst not appear. [1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Annotation on Thomason copy: "Aprill 2d 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anabaptists --  England --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160179:1" rendition="simple:additions"/>
+            <p>
+               <hi>The Anabaptiſts late Protestation.</hi> Or, their RESOLVTION To depart the City of LONDON. <hi>Wherein is ſet forth,</hi> The full proceedings of a great number of Anabaptiſts, at a late Conventicle neere Old-ſtreet. Together, with their ſeverall Debates, and Conſul<g ref="char:EOLhyphen"/>tations at the ſaid Meeting, concerning the City of London, and the Kingdome of ENGLAND.</p>
+            <lg>
+               <l>
+                  <hi>Printed in the happy Yeare,</hi>
+               </l>
+               <l>
+                  <hi>When Sectaries durst not appear.</hi>
+               </l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160179:2"/>
+            <pb facs="tcp:160179:2"/>
+            <head>
+               <hi>The Anabaptiſts laſt Good-night.</hi> BEING A RELATION OF The proceedings of divers Anabaptiſts at their late Meeting neer Old-ſtreet, <hi>March</hi> 18. 1647.</head>
+            <p>UPon the 28. day of the laſt Moneth, there were aſſembled together neere Old-ſtreet (at a zealous Conventicle) divers perſons, of ſeverall degrees and functions, for the laying open their ſad grievance, and
+<pb facs="tcp:160179:3"/>heavie <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ppreſſions (as they tearm them) oc<g ref="char:EOLhyphen"/>caſioned by the late good Votes of the ho<g ref="char:EOLhyphen"/>nourable Houſes of Parliament, for the putting downe, and aboliſhing of all Sects and Sectaries, within the Realm of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> &amp;c.</p>
+            <p>And after ſome houres ſpent in diſpu<g ref="char:EOLhyphen"/>tation, they generally reſolved to perſiſt on, and adhere to the Rules of the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> owne reformed Churches, proteſting and (inge<g ref="char:EOLhyphen"/>niouſly profeſſing) not to revo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in the leaſt from their Opinions which they were now grounded in; ſaying, that if Li<g ref="char:EOLhyphen"/>berty of Conſcience would not be allow<g ref="char:EOLhyphen"/>ed of with in this Kingdome, they would become Strangers to Forreign Princes; and take their leave of this their native Soyle, But notwithſtanding the late Ordinance of Parliament, they ſtill proceed on in their Meetings and Conventicles, uſing their own Form of Worſhip, contrary to the Diſcipline of the Church of England.</p>
+            <p>But (indeed) they are up-held by many ſtrong Agents, and animated and incoura<g ref="char:EOLhyphen"/>ged on by thoſe who have broached moſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntollerable thins of late yeares againſt the
+<pb facs="tcp:160179:3"/>high and honourable Court of Parlia<g ref="char:EOLhyphen"/>ment; the grand and chiefe Ring-leaders being now in cuſtody, for endeavouring to ſow the Seed of Diſcord within the Bow<g ref="char:EOLhyphen"/>els of this Kingdome, both by their ſeverall Writings, and printed Papers, which hath enflamed the hearts of many thouſands within this Kingdome: therefore, I may ſay, <hi>A lame Hand, is better then a lewd Pen:</hi> Therefore to ſhew much courage in a bad matter, is rather a token of a deſperate fol<g ref="char:EOLhyphen"/>ly, then any badg of a magnanimous mind. For, is it not apparent, to all true Chriſti<g ref="char:EOLhyphen"/>ans, that this kind of people hath for theſe two or three yeares practiſed and endea<g ref="char:EOLhyphen"/>voured to raiſe a diviſion, and to ſtirre up ſtrife and envie in the hearts of the people, againſt the moſt high and ſupreame Coun<g ref="char:EOLhyphen"/>cel of this Kingdome.</p>
+            <p>Therefore, what a wofull courſe hath this people ran into, not only through their own lewd practice, but alſo their infecting of others; ſo that even the ſinnes of thou<g ref="char:EOLhyphen"/>ſands they muſt give a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> acco<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t for.</p>
+            <pb facs="tcp:160179:4"/>
+            <p>But it is apparent, that ſince the creeping in of ſo many Sects within the Church of England, many ſad diſaſters have aroſe ther<g ref="char:EOLhyphen"/>by; for where there is tolleration of too many ſorts of Opinions, there ariſeth no<g ref="char:EOLhyphen"/>thing but ſtrife and contention for ſuperi<g ref="char:EOLhyphen"/>ority, and every one that hath gained a lit<g ref="char:EOLhyphen"/>tle experience in the Scriptures, takes upon him the great Office of a Miniſter, and ad<g ref="char:EOLhyphen"/>miſtiſters the Word; by which meanes, too many poor ſoules are enſnared and deluded: therefore, beleeve not every one that taketh upon him to be a Preacher, but try the Preachers, whether they are of God, ſearch the Scriptures dayly, and ſee whether thoſe things are ſo, that ſuch preachers ſay, prove all things, and receive that which is good, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> John. 4.1.</p>
+            <p>Chriſt himſelf ſaith, that if the blind doth lead the blind, both ſhal fall into the ditch, Matth. 15.14.</p>
+            <p>Nay further, the Lord himſelf ſaith, the Leaders of this people, that teacheth them Errours and falſe Doctrines ſhal cauſe them to erre, and they that are led of them are deſtroyed, Eſa 9.14, 15.</p>
+            <pb facs="tcp:160179:4"/>
+            <p>And verſ. 16, Therefore ſhall the Lord have no pleaſure in their young men, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ther have pitty of their fatherleſſe and wi<g ref="char:EOLhyphen"/>dowes; for they are altogether Hypo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>i<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s, and wicked, and all their mouthes ſpeake follie: After all this, is not the Lords wrath ceaſed, but yet his band is ſtretched out ſtill.</p>
+            <p>Thus may we ſee, and plainly diſcerne the wonderfull and horrible things which hath been done in this Land, by the wicked Seducers of our times, by their falſe and er<g ref="char:EOLhyphen"/>roneous Doctrines, and their changing and altering of the ſacred Scriptures.</p>
+            <p>Oh the ſad things which are now bro<g ref="char:EOLhyphen"/>ched: How is the Church of England defi<g ref="char:EOLhyphen"/>led, She is become black and beſpotted; nay her beauty which formerly ſhined through<g ref="char:EOLhyphen"/>out all Europe, is now eclipſed, becauſe of the too many diverſity of Opinions, which are crept within her very bowels.</p>
+            <p>But now the beauty of our Church be<g ref="char:EOLhyphen"/>ginneth (once again) to ſhine in its full luſtre, the Curtain is drawn, the Clouds are diſſolving, and all Sects and Schiſmes now vanquiſhing.</p>
+            <pb facs="tcp:160179:5"/>
+            <p>So that now it is hoped, the Church wil enjoy her former purity, and that by the vanquiſhing of theſe Sects and Hereſies, ſhe will become undefiled, and without ſpo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or blemiſh, and appear in the full beauty of al her Members.</p>
+            <p>God grant that all ſuch wicked Seducers of the people may become new Chriſtians, and reformed; and if not, God give the peo<g ref="char:EOLhyphen"/>ple grace to know them, to ſhun them, and to fly from them.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
